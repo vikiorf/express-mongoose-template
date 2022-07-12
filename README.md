@@ -20,3 +20,7 @@ Uses [JWT](https://jwt.io/) for authentication.
 Template for an express-backend using mongoDB as database and mongoose as ODM and a frontend using Vue 3 with Vite.
 
 Uses [JWT](https://jwt.io/) for authentication.
+
+## Express-Vue-TS
+
+Same as above, only with TypeScript.
