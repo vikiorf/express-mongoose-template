@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./src/*"],
+      "preact/*": ["./stub/empty.d.ts"]
+    },
+    "target": "ES6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "types": ["vite/client"],
+    "importHelpers": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "strict": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve"
+  }
+}
